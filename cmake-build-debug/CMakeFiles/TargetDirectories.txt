@@ -1,0 +1,3 @@
+/Users/ali/cosc-projects/cpp/TextEditorCPP/cmake-build-debug/CMakeFiles/TextEditorCPP.dir
+/Users/ali/cosc-projects/cpp/TextEditorCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ali/cosc-projects/cpp/TextEditorCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

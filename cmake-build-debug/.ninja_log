@@ -1,0 +1,5 @@
+# ninja log v6
+1	270	1726773895316911758	build.ninja	2ed77bab0f4702b0
+835	927	1726773456062767329	untitled1.app/Contents/MacOS/untitled1	2ba2a210cff4598f
+1	884	1726773904446904180	CMakeFiles/TextEditorCPP.dir/main.cpp.o	adb15a37ce28772c
+886	982	1726773905331683057	TextEditorCPP.app/Contents/MacOS/TextEditorCPP	c4940c6e29d7bb5e
